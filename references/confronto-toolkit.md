@@ -116,10 +116,24 @@ turno; confirme a resposta antes de avançar.
 - "Tem alguma restrição — orçamento, prazo, política interna, limite técnico —
   que eu preciso saber e você ainda não disse?"
 
-### Causas (raiz, não palpite)
+### Causas e gatilho (raiz, não palpite)
+- "O que aconteceu para *agora* virar a hora de mexer nisso? Por que não seis
+  meses atrás?" **(o gatilho — sempre pergunte, nunca feche causas sem ele)**
 - "Você *sabe* por que isso acontece, ou está supondo? Como você confirmou?"
 - "Se essa causa que você citou some, o problema some junto? Ou tem outra por
   baixo?"
+
+### Resultado esperado (pode e deve vir cedo, já na abertura)
+Puxe isto entre as primeiras perguntas: emoldura o objetivo e expõe a distância
+entre o que ele *pede* e o que ele *espera*.
+- "Quando isso estiver pronto, o que exatamente você espera ter na mão?"
+- "Descreve o cenário de 'deu certo': o que mudou, o que você vê, o que você
+  sente?"
+- "Como você vai saber, sem sombra de dúvida, que valeu a pena? Qual é a prova?"
+- "O que seria um resultado que te decepcionaria, mesmo que 'funcionasse'?"
+  (revela a expectativa oculta)
+- "Se eu te entregar exatamente o que você pediu, isso já é o resultado que você
+  espera — ou tem mais coisa por trás?" (testa a distância pedido × resultado)
 
 ### Objetivo e caminho desejado
 - "Descreve o 'resolvido'. No dia em que isso acabar, o que exatamente está
@@ -138,6 +152,9 @@ turno; confirme a resposta antes de avançar.
 - "Quem você precisa convencer para isso andar — e o que essa pessoa quer?"
 
 ### Quantificação (amarrar a número)
+> **Pergunte no primeiro sinal, não no fim.** Assim que aparecer uma meta, um
+> valor, um "mais/menos" ou uma queda/aumento, crave o número ali — não deixe
+> para o relatório.
 - "Isso 'caiu/piorou/aumentou' — quanto, em número? Comparado a quando?"
 - "Como você vai saber que resolveu? Qual número precisa se mover, e para onde?"
 - "Se você não tem esse dado hoje, qual indicador deveria passar a medir a
@@ -187,8 +204,9 @@ Só escreva o relatório quando **todas** as respostas forem "sim":
       anteriores, efeitos colaterais) foram levantados?
 - [ ] As **causas** de cada dor estão confirmadas — não supostas (ou a ausência
       de causa foi registrada como achado)?
-- [ ] O **objetivo e o caminho desejado** estão claros, e testei se o caminho
-      leva mesmo ao objetivo?
+- [ ] O **gatilho** ("por que agora?") foi investigado?
+- [ ] O **resultado esperado, o objetivo e o caminho** estão claros, e testei se
+      o caminho leva mesmo ao resultado que ele espera?
 - [ ] Os **grupos/stakeholders** (afetados, decisores, executores, resistentes)
       estão mapeados?
 - [ ] As **oito dimensões do Mapa 360** foram cobertas com dado confirmado, e
